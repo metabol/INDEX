@@ -1,2 +1,2 @@
 # INDEX
-All repos shilud actually have an index for quick browsing
+All repos should actually have an index for quick browsing
