@@ -5,6 +5,7 @@ DevOps
 **********
 1) ELK Stack 
  - https://github.com/metabol/docker-elk
+ - https://github.com/metabol/elk-docker
 
 
 
