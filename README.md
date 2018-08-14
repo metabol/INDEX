@@ -2,7 +2,7 @@
 All repos should actually have an index for quick browsing
 
 # DevOps
-**********
+
 
 # Jenkins:
 1) The Jenkins Continuous Integration and Delivery server
@@ -10,8 +10,9 @@ All repos should actually have an index for quick browsing
 
 
 
-# Kubernetes :  Production-Grade Container Scheduling and Management 
-*****************************************************************
+# Kubernetes :  
+!Production-Grade Container Scheduling and Management 
+
 Official REPO:
 - https://github.com/kubernetes/kubernetes
 
@@ -39,7 +40,7 @@ kubernetes-workshops
 
 
 #  Monitorization
-**************************************************************************
+
   
 A) BLACK-BOX tools
 1)  ELK Stack 
@@ -66,7 +67,7 @@ B) WhiteBox Tools
  
 
 # Bug/Issue tracking:
-****************************************************************
+
 1) Sync Github issues with Jira
   - https://github.com/metabol/vault-operator
 2) A Kubernetes operator to manage JIRA instances. 
@@ -75,12 +76,11 @@ B) WhiteBox Tools
 
    
 #  Docker
-  **************************************************
-  
+
   
   
 # Cloud
-*********
+
 - aws
 - Heroku
 - gCLOUD
@@ -91,25 +91,24 @@ B) WhiteBox Tools
 
 
 # Distributed Tech
-****************
+
 1) Zookeper
 2) Kafka
 
 
-# Golang
-*********
+#Golang
 Mayday: A diagnostics tool for capturing system state. 
 - https://github.com/metabol/mayday
 
 # Java
-*****
+
 
 
 # PHP
-***
+
 
 # Python
-*******
+
 
 
 
