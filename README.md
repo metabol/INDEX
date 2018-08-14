@@ -42,28 +42,29 @@ kubernetes-workshops
 #  Monitorization
 
   
-A) BLACK-BOX tools
-1)  ELK Stack 
+1) BLACK-BOX tools
+a)  ELK Stack 
  - https://github.com/metabol/docker-elk
  - https://github.com/metabol/elk-docker  
   
-2) Promethues on Kubernetes
+b) Promethues on Kubernetes
   
   i) kube-prometheus : end-to-end monitoring Kubernetes itself and applications running on top of it.
     - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
   ii) Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes 
    - https://github.com/metabol/prometheus-operator
    
- 3)Searchlight: Alerts for Kubernetes 
+   
+   c)Searchlight: Alerts for Kubernetes 
   - https://github.com/appscode/searchlight
   
   
-  4) Stern: Multi pod and container log tailing for Kubernetes 
+ d) Stern: Multi pod and container log tailing for Kubernetes 
   - https://github.com/coreos/stern
   
   
    
-B) WhiteBox Tools
+2) WhiteBox Tools
  
 
 # Bug/Issue tracking:
@@ -96,7 +97,7 @@ B) WhiteBox Tools
 2) Kafka
 
 
-#Golang
+# Golang
 Mayday: A diagnostics tool for capturing system state. 
 - https://github.com/metabol/mayday
 
@@ -113,6 +114,5 @@ Mayday: A diagnostics tool for capturing system state.
 
 
 # Blockchains
-___________________________
 
 
