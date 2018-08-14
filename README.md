@@ -1,16 +1,16 @@
 # INDEX
 All repos should actually have an index for quick browsing
 
-DevOps
+# DevOps
 **********
 
-1) Jenkins:
- i) The Jenkins Continuous Integration and Delivery server
+# Jenkins:
+1) The Jenkins Continuous Integration and Delivery server
   - https://github.com/jenkinsci/docker
 
 
 
-Kubernetes :  Production-Grade Container Scheduling and Management 
+# Kubernetes :  Production-Grade Container Scheduling and Management 
 *****************************************************************
 Official REPO:
 - https://github.com/kubernetes/kubernetes
@@ -38,7 +38,7 @@ kubernetes-workshops
 
 
 
- Monitorization
+#  Monitorization
 **************************************************************************
   
 A) BLACK-BOX tools
@@ -65,7 +65,7 @@ A) BLACK-BOX tools
 B) WhiteBox Tools
  
 
-Bug/Issue tracking:
+# Bug/Issue tracking:
 ****************************************************************
 1) Sync Github issues with Jira
   - https://github.com/metabol/vault-operator
@@ -74,26 +74,46 @@ Bug/Issue tracking:
 
 
    
- Docker
+#  Docker
   **************************************************
   
   
   
-Cloud
+# Cloud
 *********
+- aws
+- Heroku
+- gCLOUD
+- CLOUDSTACK
+- iBM
+- OPENSTACK
+- dIGITAL oCEAN
 
 
-Golang
+# Distributed Tech
+****************
+1) Zookeper
+2) Kafka
+
+
+# Golang
 *********
 Mayday: A diagnostics tool for capturing system state. 
 - https://github.com/metabol/mayday
 
-Java
+# Java
 *****
 
 
-PHP
+# PHP
 ***
 
-Python
+# Python
 *******
+
+
+
+# Blockchains
+___________________________
+
+
