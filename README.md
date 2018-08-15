@@ -83,13 +83,19 @@ b) Promethues on Kubernetes
   
 # Cloud
 
-- aws
-- Heroku
-- gCLOUD
-- CLOUDSTACK
-- iBM
-- OPENSTACK
-- dIGITAL oCEAN
+1) aws
+2)Heroku
+3)gCLOUD
+4) CLOUDSTACK
+5) iBM
+6) OPENSTACK
+i) Packstack RDO
+-http://oddbit.com/rdo-hangout-multinode-packstack-slides/
+
+ii)Ansible RDO
+ - -https://github.com/metabol/rdo-hangout-multinode-packstack-ansible
+
+7)dIGITAL oCEAN
 
 
 # Distributed Tech
