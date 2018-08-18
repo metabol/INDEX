@@ -11,7 +11,11 @@ All repos should actually have an index for quick browsing
 
 
 # Kubernetes :  
-!Production-Grade Container Scheduling and Management 
+Production-Grade Container Scheduling and Management 
+Setup a kubernetes cluster:
+- https://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services
+- https://www.profiq.com/kubernetes-cluster-setup-using-virtual-machines/
+
 
 Official REPO:
 - https://github.com/kubernetes/kubernetes
