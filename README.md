@@ -47,6 +47,9 @@ vi) Google kubernetes tutorials
 vii) How to scale Microservices with Message Queues, Spring Boot, and Kubernetes
 - https://medium.freecodecamp.org/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf
 
+
+viii)kubernetes-chaos-engineering
+- https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned
 #  Monitorization
 
   
