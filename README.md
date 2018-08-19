@@ -52,7 +52,9 @@ viii)kubernetes-chaos-engineering
 - https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned
 #  Monitorization
 
-  
+ix) Useful blogs
+- https://learnk8s.io/blog
+
 1) BLACK-BOX tools
 
 a)  ELK Stack 
