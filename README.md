@@ -37,12 +37,15 @@ kubernetes-workshops
   - https://github.com/coreos/vault-operator
    
  
-   iv) Official Python client library for kubernetes 
+  iv) Official Python client library for kubernetes 
    - https://github.com/kubernetes-client/python
    
 
 vi) Google kubernetes tutorials
 -  https://cloud.google.com/kubernetes-engine/docs/tutorials/
+
+vii) How to scale Microservices with Message Queues, Spring Boot, and Kubernetes
+- https://medium.freecodecamp.org/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf
 
 #  Monitorization
 
