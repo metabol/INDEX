@@ -50,6 +50,13 @@ vii) How to scale Microservices with Message Queues, Spring Boot, and Kubernetes
 
 viii)kubernetes-chaos-engineering
 - https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned
+
+
+
+
+IX)Cool Examples
+- https://github.com/metabol/kubernetes/tree/master/examples
+
 #  Monitorization
 
 ix) Useful blogs
