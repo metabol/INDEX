@@ -58,6 +58,10 @@ ix) RBAC
 IX)Cool Examples
 - https://github.com/metabol/kubernetes/tree/master/examples
 
+x)Kubectl cheatsheet and docs
+- https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#completion
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 #  Monitorization
 
 ix) Useful blogs
