@@ -80,8 +80,19 @@ b) Promethues on Kubernetes
   
   i) kube-prometheus : end-to-end monitoring Kubernetes itself and applications running on top of it.
     - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
+    
   ii) Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes 
-   - https://github.com/metabol/prometheus-operator
+  - https://github.com/metabol/prometheus-operator
+   
+  iii) Kubernetes Setup for Prometheus and Grafana 
+  
+  - https://github.com/metabol/kubernetes-prometheus
+   
+  iv) Kubernetes Setup for Prometheus and Grafana 
+   - Most common Prometheus deployment example with alerts for Kubernetes cluster 
+   
+   v) https://github.com/kayrus/elk-kubernetes
+   - This repo shows how to configure complete EFK stack on top of Kubernetes 
    
    
    c)Searchlight: Alerts for Kubernetes 
